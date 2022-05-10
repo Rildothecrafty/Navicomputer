@@ -10,7 +10,7 @@
 
         Typed.new("#typed", {
             stringsElement: document.getElementById('typed-strings'),
-            typeSpeed: 30,
+            typeSpeed: 40,
             backDelay: 1000000,
             loop: false,
             contentType: 'html', // or text
@@ -84,33 +84,34 @@
     <div class="wrap">
         <div class="type-wrap">
             <div id="typed-strings">
-                <span>YT-1300 Navcomputer NavOS v24.0.9g
+                <span>YT-1760 Navcomputer NavOS v24.0.9g
 Corellian Engineering Corporation
 Hyperdrive....Online
 Systems check.....OK
 Fuel Level...7% **FUEL ALERT ACTIVE**
 Hyperdrive Class...2
-Identifying Systems in Local Region...<br>		
+Transponder Code Active...The Crimson Hand...Owner...The Finger...
+Identifying Systems in Local Region now...<br>		
 <strong>SYSTEM NAME     TRAVEL TIME	        NOTE</strong>
 ------------------------------------------------------
 ANDO	        OUT OF FUEL RANGE	-
 BLENJEEL	OUT OF FUEL RANGE	-
 DOLDUR	        OUT OF FUEL RANGE	-
 FALLEEN	        OUT OF FUEL RANGE	-
-GEONOSIS	32 HOURS	        WARNING: TRAVEL BAN
+GEONOSIS	32 HOURS	        WARNING: IMPERIAL TRAVEL BAN
 HYPORI	        OUT OF FUEL RANGE	-
 KOTHLIS	        OUT OF FUEL RANGE	-
 LAMEREDD	OUT OF FUEL RANGE	-
 LERITOR	        OUT OF FUEL RANGE	-
-LOK	        57 HOURS	        WARNING: REVENANTS
+LOK	        57 HOURS	        WARNING: PIRATES
 PII SYSTEM	OUT OF FUEL RANGE	-
 RODIA	        OUT OF FUEL RANGE	-
 ROON	        OUT OF FUEL RANGE	-
-RYLOTH	        50 HOURS	        BOUNTY:G'URA B'AN
+RYLOTH	        50 HOURS	        BOUNTY:B'URA B'AN
 SILVER STATION	OUT OF FUEL RANGE	-
-SISKEEN	        65 HOURS	        KAER STATION
-TATOOINE	&lt;1 HOUR	                TEEMO
-TYTHE / NELVAAN	56 HOURS	        BOUNTY:SHA VALOROS
+SISKEEN	        65 HOURS	        KAER STATION - BOSS SHIP INSPECTIONS 
+TATOOINE	&lt;1 HOUR	              URGENT BUSINESS: JABBA
+TYTHE / NELVAAN	56 HOURS	        IMPERIAL BOUNTY: OBI-WAN KENOBI
 UKIO	        OUT OF FUEL RANGE	-
 ZHAR	        OUT OF FUEL RANGE	-
 ZOLAN	        OUT OF FUEL RANGE	-
